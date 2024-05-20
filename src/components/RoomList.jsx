@@ -6,7 +6,7 @@ const RoomList = () => {
   const hotellist = [
     {
       _id: 1,
-      image: "/Images/pexels-pixabay-258154.jpg",
+      image: "/Images/download (1).jpeg",
       description: "with A/C and also have oneday(2500)",
       price: 2500,
       roomeNumber: 100,
@@ -14,7 +14,7 @@ const RoomList = () => {
     },
     {
       _id: 2,
-      image: "/Images/pexels-pixabay-258154.jpg",
+      image: "/Images/download (2).jpeg",
       description: "with A/C and also have oneday(2500)",
       price: 2500,
       roomeNumber: 101,
@@ -22,7 +22,7 @@ const RoomList = () => {
     },
     {
       _id: 3,
-      image: "/Images/pexels-pixabay-258154.jpg",
+      image: "/Images/download (3).jpeg",
       description: "with A/C and also have oneday(2500)",
       price: 2500,
       roomeNumber: 102,
@@ -30,7 +30,7 @@ const RoomList = () => {
     },
     {
       _id: 4,
-      image: "/Images/pexels-pixabay-258154.jpg",
+      image: "/Images/download (4).jpeg",
       description: "with A/C and also have oneday(2500)",
       price: 2500,
       roomeNumber: 103,
@@ -38,7 +38,7 @@ const RoomList = () => {
     },
     {
       _id: 5,
-      image: "/Images/pexels-pixabay-258154.jpg",
+      image: "/Images/download (5).jpeg",
       description: "with out A/C and also have oneday(1000)",
       price: 1000,
       roomeNumber: 104,
@@ -46,7 +46,7 @@ const RoomList = () => {
     },
     {
       _id: 6,
-      image: "/Images/pexels-pixabay-258154.jpg",
+      image: "/Images/download (6).jpeg",
       description: "with out A/C and also have oneday(1000)",
       price: 1000,
       roomeNumber: 105,
@@ -54,7 +54,7 @@ const RoomList = () => {
     },
     {
       _id: 7,
-      image: "/Images/pexels-pixabay-258154.jpg",
+      image: "/Images/download (7).jpeg",
       description: "with out A/C and also have oneday(1000)",
       price: 1000,
       roomeNumber: 106,
@@ -62,7 +62,7 @@ const RoomList = () => {
     },
     {
       _id: 8,
-      image: "/Images/pexels-pixabay-258154.jpg",
+      image: "/Images/download (8).jpeg",
       description: "with out A/C and also have oneday(1000)",
       price: 1000,
       roomeNumber: 107,
