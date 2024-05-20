@@ -6,7 +6,7 @@ const RoomList = () => {
   const hotellist = [
     {
       _id: 1,
-      image: "src/assets/pexels-pixabay-258154.jpg",
+      image: "public/Images/pexels-pixabay-258154.jpg",
       description: "with A/C and also have oneday(2500)",
       price: 2500,
       roomeNumber: 100,
@@ -14,7 +14,7 @@ const RoomList = () => {
     },
     {
       _id: 2,
-      image: "src/assets/pexels-pixabay-258154.jpg",
+      image: "public/Images/pexels-pixabay-258154.jpg",
       description: "with A/C and also have oneday(2500)",
       price: 2500,
       roomeNumber: 101,
@@ -22,7 +22,7 @@ const RoomList = () => {
     },
     {
       _id: 3,
-      image: "src/assets/pexels-pixabay-258154.jpg",
+      image: "public/Images/pexels-pixabay-258154.jpg",
       description: "with A/C and also have oneday(2500)",
       price: 2500,
       roomeNumber: 102,
@@ -30,7 +30,7 @@ const RoomList = () => {
     },
     {
       _id: 4,
-      image: "src/assets/pexels-pixabay-258154.jpg",
+      image: "public/Images/pexels-pixabay-258154.jpg",
       description: "with A/C and also have oneday(2500)",
       price: 2500,
       roomeNumber: 103,
@@ -38,7 +38,7 @@ const RoomList = () => {
     },
     {
       _id: 5,
-      image: "src/assets/pexels-pixabay-258154.jpg",
+      image: "public/Images/pexels-pixabay-258154.jpg",
       description: "with out A/C and also have oneday(1000)",
       price: 1000,
       roomeNumber: 104,
@@ -46,7 +46,7 @@ const RoomList = () => {
     },
     {
       _id: 6,
-      image: "src/assets/pexels-pixabay-258154.jpg",
+      image: "public/Images/pexels-pixabay-258154.jpg",
       description: "with out A/C and also have oneday(1000)",
       price: 1000,
       roomeNumber: 105,
@@ -54,7 +54,7 @@ const RoomList = () => {
     },
     {
       _id: 7,
-      image: "src/assets/pexels-pixabay-258154.jpg",
+      image: "public/Images/pexels-pixabay-258154.jpg",
       description: "with out A/C and also have oneday(1000)",
       price: 1000,
       roomeNumber: 106,
@@ -62,7 +62,7 @@ const RoomList = () => {
     },
     {
       _id: 8,
-      image: "src/assets/pexels-pixabay-258154.jpg",
+      image: "public/Images/pexels-pixabay-258154.jpg",
       description: "with out A/C and also have oneday(1000)",
       price: 1000,
       roomeNumber: 107,

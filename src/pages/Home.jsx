@@ -12,11 +12,11 @@ const Home = () => {
             <p>Book from a wide range of Rooms at amazing prices!</p>
             <img
               style={{ width: "50%", height: "50%", padding: "10px" }}
-              src="src/assets/pexels-pixabay-258154.jpg"
+              src="public/Images/pexels-pixabay-258154.jpg"
             />
             <img
               style={{ width: "45%", height: "50%", padding: "10px" }}
-              src="src/assets/362619.jpg"
+              src="public/Images/362619.jpg"
             />
           </section>
           {/* <section className="search-section">
