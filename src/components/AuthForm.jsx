@@ -37,7 +37,8 @@ const AuthForm = ({ type }) => {
         .then((response) => {
           toast(response.data.message);
           localStorage.setItem("AuthorizationJwt", response.data.token);
-          navigate("/");
+          let data = localStorage.getItem("AuthorizationJwt");
+          navigate("/", { state: { data } });
         })
         .catch((error) => {
           console.error("Authentication error:", error.response.data);
